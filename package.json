@@ -1,0 +1,23 @@
+{
+  "name": "what's",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "*",
+    "body-parser": "*",
+    "express": "*",
+    "multer": "*",
+    "node-telegram-bot-api": "*",
+    "uuid": "*",
+    "ws": "*"
+  },
+  "author": "master",
+  "license": "ISC"
+}
